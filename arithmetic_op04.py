@@ -9,3 +9,8 @@
 #Create a variable called 'answer' and assign it the sum of the three digits x1, x2, x3.
 
 #Print the value of the 'answer.
+number=int(input("3 xonali son kiriting  "))
+x1=number%100%10
+x2=number//10%10
+x3=number//100
+print(x1+x2+x3)
