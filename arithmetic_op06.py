@@ -7,3 +7,8 @@
 #Print the answer.
  
 #Print the number.
+number1 = int(input("raqamni kiriting  "))
+number=number1//2
+answer=number1%2*5
+
+print(number,answer)
