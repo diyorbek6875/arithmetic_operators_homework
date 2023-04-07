@@ -4,4 +4,5 @@
 
 #Print the value of the 'answer'
 
-
+number = int(input("2 xonali son"))
+print(number//10+number%10*10)
