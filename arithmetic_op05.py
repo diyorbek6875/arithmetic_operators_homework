@@ -3,3 +3,5 @@
 #Create a variable called 'answer' and assign the remainder of the division of number by 3 to it.
 
 #Print 'answer'.
+number = int(input("raqamni kiriting"))
+print(number%3)
